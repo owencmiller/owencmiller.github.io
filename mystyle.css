@@ -6,7 +6,8 @@ html{
 body{
 	margin: 0;
 	color:white;
-	font-family: "Avenir";
+	font-family: "Lato", sans-serif;
+	font-weight: bold;
 }
 
 #mainname h1{
@@ -37,6 +38,9 @@ body{
 .subsec h2{
 	color:white;
 
+}
+.subsec p{
+	line-height: 2em;
 }
 #copywrite{
 	position: fixed;
