@@ -22,6 +22,18 @@ body{
 	float: left;
 	text-align: center;
 }
+.subsec a:link{
+	color: white;
+}
+.subsec a:visited{
+	color:white;
+}
+.subsec a:hover{
+	color: #555;
+}
+.subcsec a:active{
+	color:#335;
+}
 .subsec h2{
 	color:white;
 
